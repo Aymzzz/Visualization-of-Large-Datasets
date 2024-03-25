@@ -28,5 +28,3 @@ To use the code in this project, follow these steps:
    ```
 
    Make sure you have Python and pip installed on your system.
-
-Make sure to replace `'path/to/your/geospatial/data.shp'` with the actual path to your geospatial data file.
