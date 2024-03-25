@@ -18,7 +18,7 @@ To use the code in this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SBAI-Aymane/networkx-geospatial-visualization.git
+   git clone https://github.com/Aymzzz/Visualization-of-Large-Datasets.git
    ```
 
 2. Install the required dependencies:
